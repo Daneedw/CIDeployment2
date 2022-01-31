@@ -15,5 +15,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "limitless-fjord-46616" #Must be unique in Heroku
           heroku_email: "daneedw@gmail.com"
-
-          
